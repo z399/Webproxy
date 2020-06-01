@@ -1,9 +1,4 @@
 
-<center>
-  
-![](https://img.shields.io/packagist/dt/Athlon1600/php-proxy-app.svg) ![](https://img.shields.io/github/last-commit/Athlon1600/php-proxy-app.svg) ![](https://img.shields.io/github/license/Athlon1600/php-proxy-app.svg)
-
-</center>
 
 
 # php-proxy-app
