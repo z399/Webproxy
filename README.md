@@ -38,11 +38,6 @@ A project such as this, should be installed straight into the public directory o
 composer create-project athlon1600/php-proxy-app:dev-master /var/www/
 ```
 
-If you do not have composer or trying to host this application on a **shared hosting**, then download a pre-installed version of this app as a ZIP archive from [**www.php-proxy.com**](https://www.php-proxy.com/).
-
-**Direct Link:**  
-https://www.php-proxy.com/download/php-proxy.zip
-
 ## Keep it up-to-date
 
 Application itself rarely will change, vast majority of changes will be done to its requirement packages like php-proxy. Simply call this command once in a while to make sure your proxy is always using the latest versions.
